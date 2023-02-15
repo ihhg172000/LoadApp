@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoadApp</string>
+    <string name="app_description">Load files from internet</string>
+
+    <string name="download_completed">Download Completed</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="details">Details</string>
+
+    <string name="glide_image_loading_library_by_bump_tech">Glide - Image Loading Library by Bump Tech</string>
+    <string name="loadapp_current_repository_by_udacity">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_type_safe_http_client_for_android_and_java_by_square_inc">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="select_file_to_download">Select file to download</string>
+
+    <string name="title">Title :</string>
+    <string name="status">Status :</string>
+    <string name="ok">Ok</string>
+</resources>
